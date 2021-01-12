@@ -8,4 +8,7 @@ p{
 }
 #somethin{
   background-color: #00C2D1;
+  padding: 10px;
+  margin: 10px;
+  border: dashed 1px;
 }
