@@ -16,3 +16,6 @@ li{
   font-family: "arial";
   font-size: 20px;
 }
+a:visited {
+  color: grey;
+}
