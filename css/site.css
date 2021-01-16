@@ -24,3 +24,7 @@ li{
 a:visited {
   color: grey;
 }
+img{
+  width: 200px;
+  height: auto;
+}
