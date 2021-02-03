@@ -2,33 +2,33 @@ h1{
   font-family: "arial";
   font-size: 40px;
   text-align: center;
-  color: #ADACB5;
+  color: #999999;
 }
 h2{
   font-family: "arial";
   font-size: 30px;
   text-align: center;
-  color: #ADACB5;
+  color: #999999;
 }
 #sloth{
   font-family: "arial";
   font-size: 20px;
-  color: #ADACB5;
+  color: #999999;
 }
 p, pre{
   font-family: "arial";
   font-size: 20px;
-  color: #ADACB5;
+  color: #999999;
 }
 a{
   font-family: "arial";
   font-size: 20px;
-  color: #ADACB5;
+  color: #999999;
 }
 li{
   font-family: "arial";
   font-size: 20px;
-  color: #ADACB5;
+  color: #999999;
 }
 a:visited {
   color: grey;
@@ -38,10 +38,10 @@ img{
   height: auto;
 }
 body{
-  background-color: #000000;
+  background-color: #333333;
 }
 #lab5content{
   font-family: "arial";
   font-size: 20px;
-  color: #ADACB5;
+  color: #999999;
 }
