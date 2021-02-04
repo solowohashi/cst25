@@ -9,8 +9,8 @@ function sortName(){
   //prompt the user to enter name
   var userName = window.prompt("Enter first name to access nuclear codes:");
   //returns the prompt input with alterations
-  return userName.toLowerCase().split('').sort();
-  
+  return userName.toLowerCase().split(' ').sort();
+
 }
 
 //writes  function output on webpage
