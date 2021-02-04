@@ -36,9 +36,10 @@ a:visited {
 img{
   width: 200px;
   height: auto;
+  border-radius: 50%;
 }
 body{
-  background-color: #333333;
+  background-image: linear-gradient(to bottom right, #000000, #333333);
 }
 #lab5content{
   font-family: "arial";
