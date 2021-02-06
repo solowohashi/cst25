@@ -23,7 +23,7 @@ firstThing("test 1 ");
 secondThing("test 1 ");
 thirdThing("test 1 ");
 
-//in order
+//functions in order
 setTimeout(function(){
   firstThing("test 2");
 }, 0);
