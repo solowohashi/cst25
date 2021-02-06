@@ -1,8 +1,10 @@
 #lab8content{
   font-family: "arial";
-  font-size: 20px;
   color: #ffffff;
 }
 body{
   background-image: linear-gradient(to bottom right, #000000, #333333);
+}
+pre{
+  font-family: "arial";
 }
