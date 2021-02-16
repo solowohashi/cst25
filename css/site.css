@@ -16,17 +16,7 @@ h2{
   font-size: 20px;
   color: #ffffff;
 }
-p, pre{
-  font-family: "arial";
-  font-size: 20px;
-  color: #ffffff;
-}
-a{
-  font-family: "arial";
-  font-size: 20px;
-  color: #ffffff;
-}
-li{
+p, pre, label, a, li{
   font-family: "arial";
   font-size: 20px;
   color: #ffffff;
