@@ -3,3 +3,9 @@
   font-family: arial;
   font-stretch: 100%;
 }
+#input_text{
+  font-family: arial;
+  border-radius: 10px;
+  border-color: #aacd4a;
+  border-width: 10px;
+}
